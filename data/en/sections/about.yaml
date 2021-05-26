@@ -23,17 +23,49 @@ summary: 'Need to write a summer in here about myself, oh what to write'
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "blog@bttech.co.uk"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/benbttech/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/benbttech"
+
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/bttechcouk"
 
+
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-# softSkills:
-# - name: Leadership
-#   percentage: 85
-#   color: blue
-# - name: Team Work
-#   percentage: 90
-#   color: green
+softSkills:
+- name: VCP-DCV 2020
+  percentage: 100
+  color: blue
+- name: VCIX6.5-DCV
+  percentage: 100
+  color: sky
+- name: VCAP6.5-DCV Design
+  percentage: 100
+  color: blue
+- name: vROps 2017 Specialist
+  percentage: 100
+  color: sky
+- name: VCAP6-DCV Deploy
+  percentage: 100
+  color: blue
+- name: VCP6-DCV
+  percentage: 100
+  color: sky
+- name: VCP5-DCV
+  percentage: 100
+  color: blue
+- name: ZCP 8.0
+  percentage: 100
+  color: sky
