@@ -9,6 +9,8 @@ menu:
     weight: 10
 ---
 
+*If I make a change here will it show in the recent posts page*
+
 Greeting! This is an introduction post. This post tests the followings:
 
 - Hero image is in the same directory as the post.
