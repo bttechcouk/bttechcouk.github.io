@@ -1,4 +1,5 @@
-baseURL: https://bttech.co.uk
+# baseURL: https://bttech.co.uk Removed for the moment until the DNS verification is up and running for the domain
+baseURL: https://bttechcouk.github.io
 
 languageCode: en-us
 title: "Ben's Blog"
