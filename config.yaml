@@ -28,7 +28,7 @@ params:
   gitRepo: https://github.com/bttechcouk/bttechcouk.github.io
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: false
+  enableBlogPost: false # set this to true when ready to go with the blogs!
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
