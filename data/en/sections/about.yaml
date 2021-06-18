@@ -48,28 +48,80 @@ socialLinks:
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
 # currently supported colors: blue, yellow, pink, green, sky, orange
-softSkills:
-- name: VCP-DCV 2020
-  percentage: 100
-  color: blue
-- name: VCIX6.5-DCV
-  percentage: 100
-  color: sky
-- name: VCAP6.5-DCV Design
-  percentage: 100
-  color: blue
-- name: vROps 2017 Specialist
-  percentage: 100
-  color: sky
-- name: VCAP6-DCV Deploy
-  percentage: 100
-  color: blue
-- name: VCP6-DCV
-  percentage: 100
-  color: sky
-- name: VCP5-DCV
-  percentage: 100
-  color: blue
-- name: ZCP 8.0
-  percentage: 100
-  color: sky
+# softSkills:
+# - name: VCP-DCV 2020
+#   percentage: 100
+#   color: blue
+# - name: VCIX6.5-DCV
+#   percentage: 100
+#   color: sky
+# - name: VCAP6.5-DCV Design
+#   percentage: 100
+#   color: blue
+# - name: vROps 2017 Specialist
+#   percentage: 100
+#   color: sky
+# - name: VCAP6-DCV Deploy
+#   percentage: 100
+#   color: blue
+# - name: VCP6-DCV
+#   percentage: 100
+#   color: sky
+# - name: VCP5-DCV
+#   percentage: 100
+#   color: blue
+# - name: ZCP 8.0
+#   percentage: 100
+#   color: sky
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: VMware Certified Professional - Data Center Virtualization 2020
+  url: "https://www.credly.com/badges/f668e42a-67d4-439b-bd3f-1b9342d60ce3/public_url"
+  # badge: /images/sections/about/Vmware_Cert_Prof_DCV20.png
+  badge: "https://images.credly.com/size/220x220/images/6eaada2e-87dc-44ec-96c2-2d8e84ed6796/Vmware_Cert_Prof_DCV20.png"
+
+- type: certification
+  name: VMware Certified Implementation Expert 6.5 – Data Center Virtualization
+  url: "https://www.credly.com/badges/6a6e0072-b022-4fa8-a062-8082e125e303/public_url"
+  badge: "https://images.credly.com/size/220x220/images/4cbdc108-1db7-4499-982a-30325a42d002/vmware_Milestone_IE_DCV6.5.png"
+
+- type: certification
+  name: VMware Certified Advanced Professional 6.5 – Data Center Virtualization Design
+  url: "https://www.credly.com/badges/839e26ff-3ff5-42ce-962e-81fe214b9a08/public_url"
+  badge: "https://images.credly.com/size/220x220/images/299d8f9b-5eff-4f9c-ac72-0f99c330a543/vmware_Cert_AP_DCV6.5.png"
+
+- type: certification
+  name: VMware vRealize Operations 2017 Specialist
+  url: "https://www.credly.com/badges/5fa5a49c-2227-4b83-93f1-de68d91b8ffa/public_url"
+  badge: "https://images.credly.com/size/220x220/images/ddaf5f6a-3f42-4c7e-9dbc-22eb6dff0468/vmware_Specialist_vROps.png"
+
+- type: certification
+  name: VMware Certified Advanced Professional 6 – Data Center Virtualization Deployment
+  url: "https://www.credly.com/badges/8cb1f293-05d0-423b-b666-24539c299de4/public_url"
+  badge: "https://images.credly.com/size/220x220/images/c1bc2ee1-b9b4-478c-8fbf-69680052d5be/vmware_Cert_AP_DCV6.png"
+
+- type: certification
+  name: VMware Certified Professional 6 – Data Center Virtualization
+  url: "https://www.credly.com/badges/3fc29247-0dcf-4e1d-855a-5ae25bb04711/public_url"
+  badge: "https://images.credly.com/size/220x220/images/4ca4d86c-2022-4d10-ba65-6a5e8a1c1039/vmware_Cert_P_DCV6.png"
+
+- type: certification
+  name: 
+  # url: ""
+  badge: ""
+
+- type: certification
+  name: ZCP Enterprise Engineer 8.0
+  url: "https://www.credly.com/badges/5334271b-8b38-44ed-945b-1b1e10efa259/public_url"
+  badge: "https://images.credly.com/size/220x220/images/f4977102-572e-49b3-9157-afe8eb96bc49/PROFESSIONAL-ENTERPRISE-ENGINEER_copy.png"
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
