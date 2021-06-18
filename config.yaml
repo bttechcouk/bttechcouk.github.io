@@ -1,5 +1,9 @@
+# Google Analytics tracking ID.
+# googleAnalytics: "G-3J0N2M6TXC"
+# Details are also stored in layouts/partials/header.html for this to work. Commented out until I can get a handle on the cookie situation!
+
 # baseURL: https://bttech.co.uk Removed for the moment until the DNS verification is up and running for the domain
-baseURL: https://www.bttech.co.uk
+baseURL: /
 
 languageCode: en-us
 title: "Ben's Blog"
