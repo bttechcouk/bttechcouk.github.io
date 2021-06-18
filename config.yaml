@@ -1,5 +1,7 @@
-# Google Analytics tracking ID.
-googleAnalytics: "G-3J0N2M6TXC"
+# Google Analytics tracking ID bttech.co.uk
+# googleAnalytics: "G-3J0N2M6TXC"
+# Google Analytics tracking ID bttechcouk.github.io
+googleANALYTICS: "G-Y6B1SHH75D"
 
 privacy:
   disqus:
