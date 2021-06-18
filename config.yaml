@@ -1,5 +1,29 @@
 # Google Analytics tracking ID.
-# googleAnalytics: "G-3J0N2M6TXC"
+googleAnalytics: "G-3J0N2M6TXC"
+
+privacy:
+  disqus:
+    disable: false
+  googleAnalytics:
+    anonymizeIP: false #Enabling this will make it so the users' IP addresses are anonymized within Google Analytics.
+    disable: false #
+    respectDoNotTrack: false #Enabling this will make the GA templates respect the “Do Not Track” HTTP header.
+    useSessionStorage: false #Enabling this will disable the use of Cookies and use Session Storage to Store the GA Client ID.
+  # instagram:
+  #   disable: false
+  #   simple: false
+  # twitter:
+  #   disable: false
+  #   enableDNT: false
+  #   simple: false
+  # vimeo:
+  #   disable: false
+  #   enableDNT: false
+  #   simple: false
+  # youtube:
+  #   disable: false
+  #   privacyEnhanced: false
+
 # Details are also stored in layouts/partials/header.html for this to work. Commented out until I can get a handle on the cookie situation!
 
 # baseURL: https://bttech.co.uk Removed for the moment until the DNS verification is up and running for the domain
