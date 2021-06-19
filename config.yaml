@@ -8,7 +8,7 @@ privacy:
     disable: false
   googleAnalytics:
     anonymizeIP: false #Enabling this will make it so the users' IP addresses are anonymized within Google Analytics.
-    disable: false #
+    disable: false
     respectDoNotTrack: false #Enabling this will make the GA templates respect the “Do Not Track” HTTP header.
     useSessionStorage: false #Enabling this will disable the use of Cookies and use Session Storage to Store the GA Client ID.
   # instagram:
@@ -58,7 +58,7 @@ params:
   gitRepo: https://github.com/bttechcouk/bttechcouk.github.io
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: false # set this to true when ready to go with the blogs!
+  enableBlogPost: true # set this to true when ready to go with the blogs!
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true
