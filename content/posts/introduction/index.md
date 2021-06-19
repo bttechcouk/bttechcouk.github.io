@@ -1,18 +1,14 @@
 ---
 title: "Introduction"
-date: 2020-06-08T08:06:25+06:00
+date: 2021-06-19T01:04:00+06:00
 description: Introduction to Sample Post
 menu:
   sidebar:
     name: Introduction
     identifier: introduction
-    weight: 10
+    weight: 1
 ---
 
-*If I make a change here will it show in the recent posts page*
+# Complete post coming soon!
 
-Greeting! This is an introduction post. This post tests the followings:
-
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+Here I will aim to detail a little more about myself, where I am within my career and what it is that I looking to achieve by writing this blog.

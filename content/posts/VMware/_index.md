@@ -4,5 +4,5 @@ menu:
   sidebar:
     name: VMware
     identifier: vmware
-    weight: 1
+    weight: 5
 ---
